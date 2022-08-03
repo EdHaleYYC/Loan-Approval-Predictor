@@ -11,4 +11,6 @@ Model Persistance
 Flask - building an API
 Deployment to Cloud (AWS)
 
+Project could be improved by created a UI for applicants to input application data rather than creating a dictionary in python
+
 Main packages: pandas, numpy, matplotlib, sklearn, pickle
